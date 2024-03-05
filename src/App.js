@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Card from './Components/Card';;
+import Card from './Components/Card';
 import Expenses from "./Components/Expenses";
 import NewExpenses from "./Components/New Expense/NewExpenses";
 
